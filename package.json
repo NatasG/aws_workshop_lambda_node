@@ -1,0 +1,8 @@
+{
+  "name": "aws_workshop_lambda_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NatasG/aws_workshop_lambda_node.git",
+  "author": "Shuai Gao <gaoshuai1205@gmail.com>",
+  "license": "MIT"
+}
